@@ -11,5 +11,6 @@
 }
 
 .author {
-    text-align: end;
+    text-align: right;
+	padding:5px;
 }
