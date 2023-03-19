@@ -8,10 +8,11 @@
     border: 1px solid black;
     padding: 5px;
     margin-bottom: 20px;
-	font-size:13px;
+    font-size: 13px;
 }
 
 .author {
     text-align: right;
-	padding:5px;
+    padding: 5px;
 }
+
